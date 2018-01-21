@@ -1,5 +1,14 @@
 # demo_git
-C'est la demo blabla qui se passe bien
 
-et maintenant on modifie depuis le site LOOL
-mais aussi depuis ma machine locale et c'est super genial
+Ptite documentation pour lundi!
+On installe Atom/GitHub!
+On créer un nouveau dossier Git depuis la commande
+on se connecte blabla
+Mkdir
+cd
+git init
+ensuite on recup depuis github/desktop
+open with Atom
+open git section (fleche a droite dans atom)
+
+en vrai ceci est juste un enième test
