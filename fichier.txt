@@ -1,4 +1,0 @@
-Revenons à un fichier Txt comme les BG le font!
-test
-Ceci est un test depuis le site de GitHub
-Bonjour nous répondons depuis Atom afin de verifier que tout marche correctement! c:
